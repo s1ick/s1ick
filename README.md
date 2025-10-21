@@ -2,42 +2,61 @@
 
 ## Hi, I'm Ivan - Frontend Developer!
 
-Passionate about building modern web applications with clean code and great user experience. Specializing in Angular and interactive web development.
+Specializing in Angular development with experience in React and modern web technologies. Passionate about building responsive, interactive web applications.
 
 ### 🚀 Featured Projects
 
-#### [🎬 The Movie Database](https://github.com/s1ick/theMovieDatabase)
-**Full-featured movie discovery app with search and filtering**
-- Angular • TypeScript • TMDB API
-- Movie search with debouncing
-- Pagination & detailed movie info
-- Responsive design & modern UI
+#### **Angular Applications**
 
-#### [🎵 Music Player](https://github.com/s1ick/music)
+##### [🎵 Music Player](https://github.com/s1ick/music)
 **Modern audio player with reactive architecture**
-- Angular 20 • RxJS • Signals • Material Design
-- Data table with sorting & pagination
-- Audio playback & search functionality
-- Standalone components & reactive state
+- Angular 20 • TypeScript • RxJS • Signals
+- Material Design components
+- Data table with sorting, pagination & debounced search
+- Audio playback & standalone components
 
-#### [🛍️ 3owls E-Commerce](https://github.com/s1ick/3owls)
+##### [🛍️ 3owls E-Commerce](https://github.com/s1ick/3owls)
 **Interactive online store layout**
-- HTML5 • SCSS • JavaScript • Angular
+- Angular • SCSS • JavaScript
 - Drag & Drop product interactions
 - Lazy loading & smooth animations
 - Mobile-first responsive design
 
-#### [📚 Open Library](https://github.com/s1ick/Open-Library)
+##### [📚 Open Library](https://github.com/s1ick/Open-Library)
 **Book discovery platform with search**
 - Angular • Open Library API
-- Book search & detailed information
-- Clean UI with book covers
-- Responsive book catalog
+- Book search functionality
+- Clean UI with responsive design
+
+#### **React Application**
+
+##### [🎬 The Movie Database](https://github.com/s1ick/theMovieDatabase)
+**Movie discovery app with advanced features**
+- React • TMDB API
+- Movie search with debouncing
+- Pagination & detailed information
+- Modern user interface
+
+#### **JavaScript & API Projects**
+
+##### [🌤️ Yahoo Weather](https://github.com/s1ick/YahooWeather)
+**Weather application with location detection**
+- JavaScript • Yahoo Weather API
+- Geolocation services
+- Clean weather display
+
+##### [🎮 Sorting Game](https://github.com/s1ick/SortingGame)
+**Interactive algorithm visualization**
+- JavaScript • HTML5 • CSS3
+- Sorting algorithm demonstrations
+- Educational game interface
 
 ### 🛠 Tech Stack
 
-**Frontend Frameworks:**
+**Primary Framework:**
 ![Angular](https://img.shields.io/badge/-Angular-002137?style=for-the-badge&logo=angular)
+
+**Languages:**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-002137?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-002137?style=for-the-badge&logo=javascript)
 
@@ -46,10 +65,9 @@ Passionate about building modern web applications with clean code and great user
 ![SCSS](https://img.shields.io/badge/-SCSS-002137?style=for-the-badge&logo=sass)
 ![RxJS](https://img.shields.io/badge/-RxJS-002137?style=for-the-badge&logo=reactivex)
 
-**Tools & APIs:**
+**Tools:**
 ![Git](https://img.shields.io/badge/-Git-002137?style=for-the-badge&logo=git)
 ![REST API](https://img.shields.io/badge/-REST%20API-002137?style=for-the-badge)
-![Responsive Design](https://img.shields.io/badge/-Responsive-002137?style=for-the-badge)
 
 ### 📊 GitHub Stats
 
@@ -64,4 +82,4 @@ Passionate about building modern web applications with clean code and great user
 
 ---
 
-**Open to frontend development opportunities!** 🚀
+**Open to Angular and frontend development opportunities!** 🚀
