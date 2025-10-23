@@ -69,10 +69,7 @@ Specializing in Angular development with experience in React and modern web tech
 ![Git](https://img.shields.io/badge/-Git-002137?style=for-the-badge&logo=git)
 ![REST API](https://img.shields.io/badge/-REST%20API-002137?style=for-the-badge)
 
-### 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=s1ick&theme=dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s1ick&show_icons=true&theme=dark&hide=prs,issues&hide_title=true&hide_border=true)
+### 📊 GitHub Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s1ick&layout=compact&theme=dark)
 
 ### 📫 Connect With Me
