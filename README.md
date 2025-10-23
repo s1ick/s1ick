@@ -92,3 +92,4 @@ Specializing in Angular development with experience in React and modern web tech
 ---
 
 **Open to Angular and frontend development opportunities!** 🚀
+**Returning to active development after a break - currently working on new projects!**
