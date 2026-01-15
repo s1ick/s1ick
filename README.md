@@ -6,52 +6,55 @@ Specializing in Angular development with experience in React and modern web tech
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-#### **Angular Applications**
+### **Angular | TypeScript | RxJS**
+> Современные SPA-приложения с использованием актуальных возможностей фреймворка.
 
-##### [🎵 Music Player](https://github.com/s1ick/music)
-**Modern audio player with reactive architecture**
-- Angular 20 • TypeScript • RxJS • Signals
-- Material Design components
-- Data table with sorting, pagination & debounced search
-- Audio playback & standalone components
+#### [🎬 The Movie Database (Angular)](https://github.com/s1ick/theMovieDatabaseAngular)
+**Полнофункциональный каталог фильмов с авторизацией и избранным**
+- **Angular 20** • TypeScript • RxJS • Firebase (Auth & Firestore)
+- Интеграция с **OMDb API**, поиск, пагинация, адаптивный дизайн
+- Реализация системы избранного с сохранением данных пользователя
+- Деплой и работающее демо: *[Добавь сюда ссылку на Vercel/Netlify]* 🚀
 
-##### [🛍️ 3owls E-Commerce](https://github.com/s1ick/3owls)
-**Interactive online store layout**
-- Angular • SCSS • JavaScript
-- Drag & Drop product interactions
-- Lazy loading & smooth animations
-- Mobile-first responsive design
+#### [📚 Open Library](https://github.com/s1ick/Open-Library)
+**Продвинутое приложение для поиска книг с современной архитектурой**
+- **Angular 20** • Standalone Components • **Angular Signals** • TypeScript
+- Работа с **Open Library API**, бесконечный скролл, автодополнение
+- Оптимизация рендеринга (`OnPush`), Drag & Drop, ленивая загрузка изображений
+- Деплой и работающее демо: *[Добавь сюда ссылку на Vercel/Netlify]* 🚀
 
-##### [📚 Open Library](https://github.com/s1ick/Open-Library)
-**Book discovery platform with search**
-- Angular • Open Library API
-- Book search functionality
-- Clean UI with responsive design
+#### [📄 CrossLife — PDF Report Generator](https://github.com/s1ick/crosslife)
+**Веб-приложение для генерации бизнес-отчётов в формате PDF**
+- Angular • TypeScript • Storybook (для разработки UI-компонентов)
+- Сложная форма выбора с поддержкой регионов и городов (кириллица)
+- Клиентская генерация структурированных PDF-документов
 
-#### **React Application**
+### **React | Next.js | TypeScript**
+> Динамические приложения, построенные на современном React-стеке.
 
-##### [🎬 The Movie Database](https://github.com/s1ick/theMovieDatabase)
-**Movie discovery app with advanced features**
-- React • TMDB API
-- Movie search with debouncing
-- Pagination & detailed information
-- Modern user interface
+#### [🎬 The Movie Database (React/Next.js)](https://github.com/s1ick/theMovieDatabase)
+**Аналог кинопоиска с использованием серверного рендеринга**
+- **Next.js 15** • React • TypeScript • App Router
+- Работа с **TMDB API**, поиск с debounce, детальные страницы фильмов
+- Оптимизация производительности и SEO за счёт SSR/SSG
+- Деплой и работающее демо: *[Добавь сюда ссылку на Vercel]* 🚀
 
-#### **JavaScript & API Projects**
+### **UI/UX & Specialized Projects**
+> Дополнительные кейсы, демонстрирующие навыки вёрстки и работы со специфичными технологиями.
 
-##### [🌤️ Yahoo Weather](https://github.com/s1ick/YahooWeather)
-**Weather application with location detection**
-- JavaScript • Yahoo Weather API
-- Geolocation services
-- Clean weather display
+#### [🏢 SoftArtel — Corporate Website](https://github.com/s1ick/softArtel)
+**Корпоративный лендинг с комплексным пользовательским интерфейсом**
+- Чистый HTML, SCSS, JavaScript • Swiper.js • Адаптивная вёрстка
+- Сложные анимации, интерактивные элементы, модальные окна
+- Полностью реализованный дизайн из Figma-макета
 
-##### [🎮 Sorting Game](https://github.com/s1ick/SortingGame)
-**Interactive algorithm visualization**
-- JavaScript • HTML5 • CSS3
-- Sorting algorithm demonstrations
-- Educational game interface
+#### [🗺️ OpenStreetMap Explorer](https://github.com/s1ick/openStreetMap)
+**Интерактивное картографическое приложение**
+- Vue 3 • Composition API • TypeScript • Leaflet.js
+- Интеграция с **OpenStreetMap API**, поиск, слои, пользовательские маркеры
+- Управление сложным состоянием карты и геоданными
 
 ---
 
